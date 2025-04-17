@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+  background-color: #d7eafa;
+  text-align: center;
+  padding: 50px;
+}
+
+img {
+  border-radius: 12px;
+  box-shadow: 0 0 0px rgba(0,0,0,0.2);
+}
